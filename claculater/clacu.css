@@ -1,0 +1,46 @@
+.calculator{
+    height: 511px;
+  width: 342px;
+  background-color: rgb(43, 40, 40);
+  margin-left: 430px;
+  margin-top: 60px;
+  border: solid 3px
+}
+#screen{
+    margin-left: 33px;
+  height: 40px;
+  width: 267px;
+  margin-top: 45px;
+  pointer-events: none;
+
+}
+.row{
+    padding-left: 45px;
+    margin-top: 32px;
+}
+.btn{
+    height: 50px;
+    width: 60px;
+
+}
+.clr{
+    margin-left: 45px;
+  margin-top: 24px;
+  height: 50px;
+    width: 60px;
+
+}
+.image{
+    height: 23px;
+  width: 140px;
+  text-align: center;
+  padding-left: 34px;
+  padding-top: 12px;
+}
+.mainbody{
+ 
+    background-image: url(https://images.pexels.com/photos/209224/pexels-photo-209224.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    width: 1284px;
+    height: 835px;
+    padding-top: 45px;
+}
